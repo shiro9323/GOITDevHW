@@ -41,7 +41,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>com.goit.module1.Maven.Main</mainClass>
+              <mainClass>com.goit.module1.maven.Main</mainClass>
             </manifest>
           </archive>
         </configuration>
