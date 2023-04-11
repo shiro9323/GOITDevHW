@@ -1,4 +1,4 @@
-package module1Maven;
+package com.goit.module1.Maven;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

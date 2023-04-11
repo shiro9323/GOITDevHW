@@ -1,4 +1,4 @@
-package module1Maven;
+package com.goit.module1.Maven;
 
 public class Person {
     private final String name;
